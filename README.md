@@ -6,7 +6,8 @@
 ## Connect With Me:
 
 <a href="https://www.linkedin.com/in/arnaldo-pagani-junior-7b1b87211/" target="_blank">
-<img align="center" alt="Arnaldo-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  </a>
+<img align="center" alt="Arnaldo-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+ </a>
   
 ## My Skills
 
